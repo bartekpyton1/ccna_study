@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 Network Access/2.2 Configure and verify interswitch connectivity.md",
+                "file": "2.0 Network Access/2.3 Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Configure and verify interswitch connectivity"
+              "title": "2.3 Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP)"
             }
           }
         ],
@@ -247,8 +247,9 @@
   },
   "active": "3e4e8592bcc19cc8",
   "lastOpenFiles": [
-    "2.0 Network Access/2.1 Configure and verify VLANs (normal range) spanning multiple switches.md",
     "2.0 Network Access/2.2 Configure and verify interswitch connectivity.md",
+    "2.0 Network Access/2.3 Configure and verify Layer 2 discovery protocols (Cisco Discovery Protocol and LLDP).md",
+    "2.0 Network Access/2.1 Configure and verify VLANs (normal range) spanning multiple switches.md",
     "1.0 Network Fundamentals/1.13 Describe switching concepts.md",
     "2.0 Network Access",
     "1.0 Network Fundamentals/1.12 Explain virtualization fundamentals (server virtualization, containers, and VRFs).md",

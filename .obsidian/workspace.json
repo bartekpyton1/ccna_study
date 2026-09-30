@@ -76,9 +76,37 @@
               "icon": "lucide-file",
               "title": "4.6 Configure and verify DHCP client and relay"
             }
+          },
+          {
+            "id": "e27c1957271c782d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.0 IP Services/4.7 Explain the forwarding per-hop behavior (PHB) for QoS such as classification, marking, queuing, congestion, policing and shaping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.7 Explain the forwarding per-hop behavior (PHB) for QoS such as classification, marking, queuing, congestion, policing and shaping"
+            }
+          },
+          {
+            "id": "488e82cf79d6d64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.8 Configure network devices for remote access using SSH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.8 Configure network devices for remote access using SSH"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -245,11 +273,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2dd0e56277a51e9",
+  "active": "488e82cf79d6d64e",
   "lastOpenFiles": [
+    "4.0 IP Services/4.7 Explain the forwarding per-hop behavior (PHB) for QoS such as classification, marking, queuing, congestion, policing and shaping.md",
+    "4.8 Configure network devices for remote access using SSH.md",
+    "4.0 IP Services/4.6 Configure and verify DHCP client and relay.md",
     "3.0 IP Connectivity/3.5 Descirbe the purpose, functions, and concepts of first hop redundancy protocols.md",
     "4.0 IP Services/4.1 Configure and verify inside source NAT using static and pools.md",
-    "4.0 IP Services/4.6 Configure and verify DHCP client and relay.md",
     "4.0 IP Services/4.5 Describe the use of syslog features, including facilities and severity levels.md",
     "4.0 IP Services/4.4 Explain the function of SNMP in network operations.md",
     "4.0 IP Services/4.3 Explain the role of DHCP and DNS within the network.md",
@@ -272,8 +302,6 @@
     "1.0 Network Fundamentals/1.13 Describe switching concepts.md",
     "1.0 Network Fundamentals/1.12 Explain virtualization fundamentals (server virtualization, containers, and VRFs).md",
     "1.0 Network Fundamentals/1.11 Describe wireless principles.md",
-    "1.0 Network Fundamentals/1.9 Describe IPv6 address types.md",
-    "3.0 IP Connectivity/3.1 Interpret the components of routing table.md",
     "3.0 IP Connectivity",
     "2.0 Network Access",
     "images/nonoverlapping.jpeg",

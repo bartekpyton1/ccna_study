@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "5.4 Describe security password policy elements, such as management, complexity and password alternatives (multifactor authentication, certificates, and biometrics)"
             }
+          },
+          {
+            "id": "c70b10919fc97658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.0 Security Fundamentals/5.5 Describe IPsec remote access and site-to-site VPNs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.5 Describe IPsec remote access and site-to-site VPNs"
+            }
+          },
+          {
+            "id": "9e9d265c3a9c4b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.0 Security Fundamentals/5.6 Configure and verify access control lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.6 Configure and verify access control lists"
+            }
+          },
+          {
+            "id": "a6c8f6d5a78a82f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.0 Security Fundamentals/5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection,and port security).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection,and port security)"
+            }
+          },
+          {
+            "id": "f66a14152f156faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.0 Security Fundamentals/5.8 Compare authentication, authorization, and accounting concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.8 Compare authentication, authorization, and accounting concepts"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,11 +245,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "7bbbfe969aba7da1",
+  "active": "56990721b881569f",
   "lastOpenFiles": [
+    "5.0 Security Fundamentals/5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection,and port security).md",
+    "5.0 Security Fundamentals/5.8 Compare authentication, authorization, and accounting concepts.md",
+    "5.0 Security Fundamentals/5.6 Configure and verify access control lists.md",
+    "5.0 Security Fundamentals/5.5 Describe IPsec remote access and site-to-site VPNs.md",
+    "5.0 Security Fundamentals/5.4 Describe security password policy elements, such as management, complexity and password alternatives (multifactor authentication, certificates, and biometrics).md",
     "5.0 Security Fundamentals/5.3 Configure and verify device access control using local passwords.md",
     "5.0 Security Fundamentals/5.2 Describe security program elements (user awareness, training, and physical accesscontrol).md",
-    "5.0 Security Fundamentals/5.4 Describe security password policy elements, such as management, complexity and password alternatives (multifactor authentication, certificates, and biometrics).md",
     "5.0 Security Fundamentals/5.1 Define key security concepts (threads, vulnerabilities, exploits and mitigation techniques).md",
     "4.0 IP Services/4.9 Describe the capabilities and functions of TFTP and FTP in the network.md",
     "5.0 Security Fundamentals",
@@ -214,10 +275,6 @@
     "Untitled.md",
     "2.0 Network Access/2.9 Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN creation, security settings, QoS profiles, and advanced settings.md",
     "2.0 Network Access/2.8 Describe network device management access (Telnet, SSH, HTTP, HTTPS, console, TACACS+, RADIUS, and cloud managed).md",
-    "2.0 Network Access/2.7 Describe physical infrastructure connections of WLAN components (AP, WLC, access or trunk ports, and LAG).md",
-    "2.0 Network Access/2.6 Describe Cisco Wireless Architectures and AP modes.md",
-    "2.0 Network Access/2.5 Interpret basic operations of Rapid PVST+ Spanning Tree Protocol.md",
-    "2.0 Network Access/2.4 Configure and verify (Layer 2  Layer 3) Etherchannel (LACP).md",
     "3.0 IP Connectivity",
     "2.0 Network Access",
     "images/nonoverlapping.jpeg",

@@ -76,9 +76,51 @@
               "icon": "lucide-file",
               "title": "5.8 Compare authentication, authorization, and accounting concepts"
             }
+          },
+          {
+            "id": "809e1f064178b5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.0 Security Fundamentals/5.9 Describe wireless security protocols (WPA, WPA2, and WPA3).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.9 Describe wireless security protocols (WPA, WPA2, and WPA3)"
+            }
+          },
+          {
+            "id": "bba0cb1d2b50a4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.0 Security Fundamentals/5.10 Configure and verify WLAN within the GUI using WPA2 PSK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.10 Configure and verify WLAN within the GUI using WPA2 PSK"
+            }
+          },
+          {
+            "id": "447e94fa76724986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.1 Explain how automation impacts network management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1 Explain how automation impacts network management"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -245,10 +287,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "56990721b881569f",
+  "active": "447e94fa76724986",
   "lastOpenFiles": [
-    "5.0 Security Fundamentals/5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection,and port security).md",
+    "5.0 Security Fundamentals/5.10 Configure and verify WLAN within the GUI using WPA2 PSK.md",
+    "6.1 Explain how automation impacts network management.md",
+    "6.0 Automation and Programmability",
+    "5.0 Security Fundamentals/5.9 Describe wireless security protocols (WPA, WPA2, and WPA3).md",
+    "2.0 Network Access/2.9 Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN creation, security settings, QoS profiles, and advanced settings.md",
+    "4.0 IP Services/4.7 Explain the forwarding per-hop behavior (PHB) for QoS such as classification, marking, queuing, congestion, policing and shaping.md",
     "5.0 Security Fundamentals/5.8 Compare authentication, authorization, and accounting concepts.md",
+    "5.0 Security Fundamentals/5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection,and port security).md",
     "5.0 Security Fundamentals/5.6 Configure and verify access control lists.md",
     "5.0 Security Fundamentals/5.5 Describe IPsec remote access and site-to-site VPNs.md",
     "5.0 Security Fundamentals/5.4 Describe security password policy elements, such as management, complexity and password alternatives (multifactor authentication, certificates, and biometrics).md",
@@ -258,7 +306,6 @@
     "4.0 IP Services/4.9 Describe the capabilities and functions of TFTP and FTP in the network.md",
     "5.0 Security Fundamentals",
     "4.0 IP Services/4.8 Configure network devices for remote access using SSH.md",
-    "4.0 IP Services/4.7 Explain the forwarding per-hop behavior (PHB) for QoS such as classification, marking, queuing, congestion, policing and shaping.md",
     "4.0 IP Services/4.6 Configure and verify DHCP client and relay.md",
     "3.0 IP Connectivity/3.5 Descirbe the purpose, functions, and concepts of first hop redundancy protocols.md",
     "4.0 IP Services/4.1 Configure and verify inside source NAT using static and pools.md",
@@ -271,10 +318,6 @@
     "1.0 Network Fundamentals/1.6 Configure and verify IPv4 addressing and subnetting.md",
     "1.0 Network Fundamentals/1.1 Explain the role and function of network components.md",
     "3.0 IP Connectivity/3.3 Configure and verify IPv4 and IPv6 static routing.md",
-    "3.0 IP Connectivity/3.2 Determine how a router makes a forwarding decision by default.md",
-    "Untitled.md",
-    "2.0 Network Access/2.9 Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN creation, security settings, QoS profiles, and advanced settings.md",
-    "2.0 Network Access/2.8 Describe network device management access (Telnet, SSH, HTTP, HTTPS, console, TACACS+, RADIUS, and cloud managed).md",
     "3.0 IP Connectivity",
     "2.0 Network Access",
     "images/nonoverlapping.jpeg",

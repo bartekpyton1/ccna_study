@@ -111,16 +111,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.1 Explain how automation impacts network management.md",
+                "file": "6.0 Automation and Programmability/6.1 Explain how automation impacts network management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "6.1 Explain how automation impacts network management"
             }
+          },
+          {
+            "id": "7ac7272aece378a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.0 Automation and Programmability/6.2 Compare traditional networks with controller-based networking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2 Compare traditional networks with controller-based networking"
+            }
+          },
+          {
+            "id": "62d9334c35f00256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.0 Automation and Programmability/6.3 Describe controller-based, software defined architecture (overlay, underlay and fabric).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.3 Describe controller-based, software defined architecture (overlay, underlay and fabric)"
+            }
+          },
+          {
+            "id": "5305726d5417e4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.0 Automation and Programmability/6.4 Explain AI (generative and predictive) and machine learning in network operations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.4 Explain AI (generative and predictive) and machine learning in network operations"
+            }
+          },
+          {
+            "id": "726c70b8345278dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.5 Describe characteristics of REST-based APIs (authentication types, CRUD, HTTP verbs,and data encoding).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.5 Describe characteristics of REST-based APIs (authentication types, CRUD, HTTP verbs,and data encoding)"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -287,10 +343,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "447e94fa76724986",
+  "active": "726c70b8345278dd",
   "lastOpenFiles": [
+    "6.0 Automation and Programmability/6.4 Explain AI (generative and predictive) and machine learning in network operations.md",
+    "6.5 Describe characteristics of REST-based APIs (authentication types, CRUD, HTTP verbs,and data encoding).md",
+    "6.0 Automation and Programmability/6.3 Describe controller-based, software defined architecture (overlay, underlay and fabric).md",
+    "6.0 Automation and Programmability/6.2 Compare traditional networks with controller-based networking.md",
+    "6.0 Automation and Programmability/6.1 Explain how automation impacts network management.md",
     "5.0 Security Fundamentals/5.10 Configure and verify WLAN within the GUI using WPA2 PSK.md",
-    "6.1 Explain how automation impacts network management.md",
     "6.0 Automation and Programmability",
     "5.0 Security Fundamentals/5.9 Describe wireless security protocols (WPA, WPA2, and WPA3).md",
     "2.0 Network Access/2.9 Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN creation, security settings, QoS profiles, and advanced settings.md",
@@ -314,10 +374,6 @@
     "4.0 IP Services/4.3 Explain the role of DHCP and DNS within the network.md",
     "4.0 IP Services/4.2 Configure and verify NTP operating in a client and server mode.md",
     "4.0 IP Services",
-    "3.0 IP Connectivity/3.4 Configure and verify single area OSPFv2.md",
-    "1.0 Network Fundamentals/1.6 Configure and verify IPv4 addressing and subnetting.md",
-    "1.0 Network Fundamentals/1.1 Explain the role and function of network components.md",
-    "3.0 IP Connectivity/3.3 Configure and verify IPv4 and IPv6 static routing.md",
     "3.0 IP Connectivity",
     "2.0 Network Access",
     "images/nonoverlapping.jpeg",
